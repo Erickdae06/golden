@@ -1,0 +1,14 @@
+D:\Web Development\laravel\golden\NamaProyekAnda\obj\Debug\net8.0-windows\NamaProyekAnda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development\laravel\golden\NamaProyekAnda\obj\Debug\net8.0-windows\NamaProyekAnda.AssemblyInfoInputs.cache
+D:\Web Development\laravel\golden\NamaProyekAnda\obj\Debug\net8.0-windows\NamaProyekAnda.AssemblyInfo.cs
+D:\Web Development\laravel\golden\NamaProyekAnda\obj\Debug\net8.0-windows\NamaProyekAnda.csproj.CoreCompileInputs.cache
+D:\Web Development\laravel\golden\NamaProyekAnda\bin\Debug\net8.0-windows\NamaProyekAnda.exe
+D:\Web Development\laravel\golden\NamaProyekAnda\bin\Debug\net8.0-windows\NamaProyekAnda.deps.json
+D:\Web Development\laravel\golden\NamaProyekAnda\bin\Debug\net8.0-windows\NamaProyekAnda.runtimeconfig.json
+D:\Web Development\laravel\golden\NamaProyekAnda\bin\Debug\net8.0-windows\NamaProyekAnda.dll
+D:\Web Development\laravel\golden\NamaProyekAnda\bin\Debug\net8.0-windows\NamaProyekAnda.pdb
+D:\Web Development\laravel\golden\NamaProyekAnda\obj\Debug\net8.0-windows\NamaProyekAnda.dll
+D:\Web Development\laravel\golden\NamaProyekAnda\obj\Debug\net8.0-windows\refint\NamaProyekAnda.dll
+D:\Web Development\laravel\golden\NamaProyekAnda\obj\Debug\net8.0-windows\NamaProyekAnda.pdb
+D:\Web Development\laravel\golden\NamaProyekAnda\obj\Debug\net8.0-windows\NamaProyekAnda.genruntimeconfig.cache
+D:\Web Development\laravel\golden\NamaProyekAnda\obj\Debug\net8.0-windows\ref\NamaProyekAnda.dll
